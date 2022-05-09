@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Manual Controls
     description                           : Change settings like Shutter Speed, ISO, Focus, and White Balance by swiping on the controls.
-    # fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : camera-alt
 
   - title                                 : Grid
     description                           : Use grids like rule of thirds, golden ratio, and square to compose your perfect shot.
@@ -57,15 +57,15 @@ features                                  :
 
   - title                                 : Geotagging
     description                           : Enabled location geotagging to save your current location to your photos' metadata.
-    # fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : map-marker-alt
 
   - title                                 : View Metadata
     description                           : View the metadata of your photos' like the settings at the time of capturing the photo, edit history, different versions of the photo and their file size.
-    # fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Share
     description                           : You can share a specific version of your photo from the edit history or different version like original, edited or RAW version.
-    # fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : share-alt
 
   # - title                                 : FontAwesome Support
   #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
