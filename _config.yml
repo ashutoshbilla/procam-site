@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : Grid
     description                           : Use grids like rule of thirds, golden ratio, and square to compose your perfect shot.
-    fontawesome_icon_name                 : frame
+    fontawesome_icon_name                 : border-all
 
   - title                                 : Output Format
     description                           : Pick your choice of output file format from JPEG, HEIF, RAW, and RAW+JPEG. ProRAW coming soon.
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Exposure Bracketing
     description                           : Capture three photos with varying levels of exposure that you set and later blend parts of each photo to create one perfect photo.
-    fontawesome_icon_name                 : sliders-simple
+    fontawesome_icon_name                 : slider
 
   - title                                 : Geotagging
     description                           : Enabled location geotagging to save your current location to your photos' metadata.
@@ -99,7 +99,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#38AAFF"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
