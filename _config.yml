@@ -37,23 +37,23 @@ features                                  :
 
   - title                                 : Manual Controls
     description                           : Change settings like Shutter Speed, ISO, Focus, and White Balance by swiping on the controls.
-    fontawesome_icon_name                 : camera-alt
+    fontawesome_icon_name                 : camera
 
   - title                                 : Grid
     description                           : Use grids like rule of thirds, golden ratio, and square to compose your perfect shot.
-    # fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : frame
 
   - title                                 : Output Format
     description                           : Pick your choice of output file format from JPEG, HEIF, RAW, and RAW+JPEG. ProRAW coming soon.
-    # fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : image
 
   - title                                 : Lock Settings
     description                           : When you find the right camera settings for your shot you can tap the lock button to lock all the controls like the shutter speed, ISO, focus, and white balance to avoid accidentally disturbing your settings.
-    # fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : lock
 
   - title                                 : Exposure Bracketing
     description                           : Capture three photos with varying levels of exposure that you set and later blend parts of each photo to create one perfect photo.
-    # fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : sliders-simple
 
   - title                                 : Geotagging
     description                           : Enabled location geotagging to save your current location to your photos' metadata.
